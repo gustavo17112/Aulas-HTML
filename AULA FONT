@@ -1,0 +1,31 @@
+<html>
+
+ <head>
+    <title>Ultilizando Tag's de Formatação </title>
+ </head>
+
+  <body>
+    Exemplos:<p>
+    <FONT FACE="TIMES">Este é um txt format Times new
+    Roaman</FONT>
+    <p>
+    
+    <FONT COLOR = "RED" >Permite da cor ao texto ,vc pode usar em ingles "red" ou em hexadecimal "#ff0000"</FONT>
+    <P>
+    <FONT SIZE = 7>Tamanho fonte de 1 ao 7 </FONT>
+    <p>
+    
+    <FONT FACE ="VERDANA"COLOR= "blue" SIZE = 5> Exemplo de junção</FONT>
+    
+    
+    <FONT FACE ="VERDANA"COLOR= "blue" SIZE = 5> Alinhamento do texto </FONT>
+ <h2 ALIGN=CENTER > TEXTO ALINHADO AO CENTRO <h2>
+    <h3ALIGN=RIGHT>ALINHADO A DIREITA </H3>
+    
+
+   
+
+    
+  </body>
+
+</html>
